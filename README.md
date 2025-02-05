@@ -1,1 +1,1 @@
-Repositório utilizado para armazenar informaçãoes sobre TCC
+Repositório utilizado para armazenar informaçãoes sobre o TCC
